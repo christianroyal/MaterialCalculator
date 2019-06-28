@@ -7,7 +7,7 @@
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:buttonStyle">@style/newbuttonstyle</item>
     </style>
-    <style name="newbuttonstyle" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
+    <style name="newbuttonstyle" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
     </style>
 
 </resources>
